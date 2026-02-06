@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"#MyPkg20.jl","page":"Home","title":"MyPkg20.jl","text":"Documentation for MyPkg20.jl.","category":"section"},{"location":"#Install","page":"Home","title":"Install","text":"import Pkg; Pkg.add(url=\"https://github.com/ohno//MyPkg20.jl.git\")","category":"section"},{"location":"#Quick-Start","page":"Home","title":"Quick Start","text":"import MyPkg20; MyPkg20.hello()","category":"section"},{"location":"#API-reference","page":"Home","title":"API reference","text":"","category":"section"},{"location":"#MyPkg20.hello-Tuple{}","page":"Home","title":"MyPkg20.hello","text":"hello() -> String\n\n\n\n\n\n\n","category":"method"}]
+}
